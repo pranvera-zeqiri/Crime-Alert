@@ -1,0 +1,18 @@
+name: Basic CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: List project files
+        run: |
+          echo "Checking project files:"
+          ls -la
+          echo "CI check successful!"
