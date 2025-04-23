@@ -21,9 +21,8 @@ May 5 – May 12, 2025
    - Task 4: "Remember me" checkbox logic
 
 ## Team Task Assignment
-- [Your Name]: Frontend forms (HTML/CSS/JS) for login and registration
-- Teammate 1: Auth API endpoints & session/token logic
-- Teammate 2: MongoDB schema, server validation, and email uniqueness checks
+- Pranvera Zeqiri: Frontend forms (HTML/CSS/JS) for login and registration
+- Elmedin Hyseni: Auth API endpoints & session/token logic
 
 ## Definition of Done
 - Works in local dev environment  
